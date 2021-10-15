@@ -10,3 +10,7 @@ Bounov, D. 2018. Toward Gamification and Crowdsourcing of Software Verification.
 
 Gamification of Loop-Invariant Discovery from Code
 Andrew T. Walter, Benjamin Boskin, Seth Cooper, Panagiotis Manolios
+
+A Reasoning Engine for the Gamification of Loop-Invariant Discovery
+Andrew Walter, Seth Cooper, and Panagiotis Manolios
+
