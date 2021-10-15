@@ -44,3 +44,5 @@ A Concise Sequent Calculus for Teaching First-Order Logic
 Asta Halkjær From & Jørgen Villadsen
 Isabelle Workshop 2020
 https://sketis.net/isabelle/isabelle-workshop-2020
+
+http://www.cs.cmu.edu/~aldrich/sasylf/
