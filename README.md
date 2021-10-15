@@ -15,3 +15,5 @@ A Reasoning Engine for the Gamification of Loop-Invariant Discovery
 Andrew Walter, Seth Cooper, and Panagiotis Manolios
 
 https://cseweb.ucsd.edu/~lerner/pg.html
+
+https://jdublu10.github.io/assets/thesis.pdf
