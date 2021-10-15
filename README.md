@@ -46,3 +46,9 @@ Isabelle Workshop 2020
 https://sketis.net/isabelle/isabelle-workshop-2020
 
 http://www.cs.cmu.edu/~aldrich/sasylf/
+
+A Computer Environment for Writing Ordinary Mathematical Proofs
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.3730&rep=rep1&type=pdf
+
+Student proof exercises using MathsTiles and isabelle/HOL in an intelligent book
+https://rune.une.edu.au/web/bitstream/1959.11/22401/3/open/SOURCE02.pdf
