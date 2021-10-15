@@ -7,3 +7,6 @@ Games that conceal math. In Binary Fission [16], players build preconditions by 
 In Circuit Bot [12], Dynamaker [12] and Pipe-Jam/Flow- Jam/Paradox [13, 12] players resolves conflicts in con- straints graphs derived from type/information flows. In Ghost Space [12] and Hyper Space [12] players manipulate an ab- stracted control-flow graph to perform counterexample-guided abstraction refinement under the hood. In StormBound [12] players build program predicates without seeing mathematical symbols or numbers. These games rely more on the player’s visual and spatial recognition skills, rather than mathematical pattern recognition skills.
 
 Bounov, D. 2018. Toward Gamification and Crowdsourcing of Software Verification. Ph.D. Dissertation, University of California San Diego, USA.
+
+Gamification of Loop-Invariant Discovery from Code
+Andrew T. Walter, Benjamin Boskin, Seth Cooper, Panagiotis Manolios
