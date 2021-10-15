@@ -17,3 +17,30 @@ Andrew Walter, Seth Cooper, and Panagiotis Manolios
 https://cseweb.ucsd.edu/~lerner/pg.html
 
 https://jdublu10.github.io/assets/thesis.pdf
+
+NaDeA: A Natural Deduction Assistant with a Formalization in Isabelle
+Jørgen Villadsen, Alexander Birch Jensen & Anders Schlichtkrull
+IFCoLog Journal of Logics and their Applications 4(1) p. 55-82 2017
+http://www.collegepublications.co.uk/journals/ifcolog/
+A preliminary version appeared in Proceedings of 4th International Conference on Tools for Teaching Logic, Rennes, France, p. 253-262 2015
+http://arxiv.org/abs/1507.04002
+ProofJudge: Automated Proof Judging Tool for Learning Mathematical Logic
+Jørgen Villadsen
+Proceedings of the Exploring Teaching for Active Learning in Engineering Education Conference, Copenhagen, Denmark, p. 39-44 2015
+http://etalee2015.etalee.dk/
+Natural Deduction and the Isabelle Proof Assistant
+Jørgen Villadsen, Andreas Halkjær From & Anders Schlichtkrull
+Post-proceedings of the 6th International Workshop on Theorem proving components for Educational software (ThEdu'17)
+http://eptcs.org/content.cgi?ThEdu17
+Natural Deduction Assistant (NaDeA)
+Jørgen Villadsen, Andreas Halkjær From & Anders Schlichtkrull
+Post-proceedings of the 7th International Workshop on Theorem proving components for Educational software (ThEdu'18)
+http://eptcs.org/content.cgi?thedu18
+Teaching a Formalized Logical Calculus
+Asta Halkjær From, Alexander Birch Jensen, Anders Schlichtkrull & Jørgen Villadsen
+Post-proceedings of the 8th International Workshop on Theorem proving components for Educational software (ThEdu'19)
+http://eptcs.org/content.cgi?ThEdu19
+A Concise Sequent Calculus for Teaching First-Order Logic
+Asta Halkjær From & Jørgen Villadsen
+Isabelle Workshop 2020
+https://sketis.net/isabelle/isabelle-workshop-2020
