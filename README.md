@@ -54,3 +54,11 @@ Student proof exercises using MathsTiles and isabelle/HOL in an intelligent book
 https://rune.une.edu.au/web/bitstream/1959.11/22401/3/open/SOURCE02.pdf
 
 https://functional-algorithms-verified.org
+
+
+
+g-hol: A graphical user interface for the HOL proof assistant
+F Arshad, H Mehmood, F Raza, O Hasan
+
+Developing a Web-Based Hoare Logic Proof Assistant
+F Goldener
