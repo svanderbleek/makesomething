@@ -62,3 +62,6 @@ F Arshad, H Mehmood, F Raza, O Hasan
 
 Developing a Web-Based Hoare Logic Proof Assistant
 F Goldener
+
+Praωf: Interactive Proof Assistant for Predicate Logic
+O Petrovska 
